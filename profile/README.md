@@ -19,7 +19,13 @@ A.N.N.A : https://github.com/anna-ai-assistant
   - Ollama : LLM for basic task
   - Whisper : To manage speak
   - Piper : To manage voice recognition
+  - Jetson inference exemple : https://github.com/dusty-nv/jetson-inference
   - ...
+ 
+## INSPIRATIONS
+
+- OASIS :
+  - Special thanks to OASIS project for the HUD inspiration : https://github.com/The-OASIS-Project
 
 ## TODO
 
